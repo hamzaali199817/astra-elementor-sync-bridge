@@ -80,4 +80,5 @@ Yes, this plugin is fully compatible with both the free and Pro versions of Elem
 You will need to re-run the synchronization from the plugin's settings page to update Elementor with the latest changes.
 
 = Can I choose which settings to sync? =
+
 Currently, the plugin provides separate buttons for synchronizing colors and typography. Future versions may include more granular control.
